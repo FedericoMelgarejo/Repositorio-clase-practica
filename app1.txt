@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 contenido 1 quiero saber que pasa
-=======
+
 linea dasdnasdhasdsfsd
->>>>>>> f5fd7d9abdf8072a989674e65a8be8a8efb7ea14
-=======
+
 Linea 1
->>>>>>> dcafa5e386b5c6287df14278a4c410dd15e34450
+
