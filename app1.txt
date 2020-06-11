@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 contenido 1 quiero saber que pasa
+=======
+Linea 1
+>>>>>>> dcafa5e386b5c6287df14278a4c410dd15e34450
